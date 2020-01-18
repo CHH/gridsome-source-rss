@@ -2,6 +2,9 @@
 
 > Use an RSS feed as a source for gridsome
 
+![Version](https://img.shields.io/npm/v/gridsome-source-rss)
+![Downloads](https://img.shields.io/npm/dm/gridsome-source-rss)
+
 ## Install
 
 - `yarn add gridsome-source-rss`
