@@ -32,12 +32,12 @@ module.exports = {
 
 ### feedUrl
 
-URL of the feed, passed directly to `parseURL`.
+URL of the feed.
 
 ### typeName
 
-Type name of the collection
+Type name of the collection.
 
 ### parser
 
-Parser options, see the [`rss-parser` documentation](https://www.npmjs.com/package/rss-parser). Use this to set HTTP options, for example.
+Parser options, see the [`rss-parser` documentation](https://www.npmjs.com/package/rss-parser). Can be used to set e.g. HTTP headers.
