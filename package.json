@@ -1,13 +1,13 @@
 {
   "name": "gridsome-source-rss",
-  "version": "1.0.0-alpha.2",
+  "version": "1.0.0-alpha.3",
   "main": "src/index.js",
   "repository": "https://github.com/CHH/gridsome-source-rss.git",
   "author": "Christoph Hochstrasser <christoph@hochstrasser.io>",
   "license": "MIT",
   "dependencies": {
-    "rss-parser": "^3.7.3",
-    "lodash.omit": "^4.5.0"
+    "lodash.omit": "^4.5.0",
+    "rss-parser": "^3.7.3"
   },
   "keywords": [
     "gridsome",
