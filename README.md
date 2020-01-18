@@ -36,7 +36,7 @@ URL of the feed.
 
 ### typeName
 
-Type name of the collection.
+Type name of the collection, defaults to `FeedNode`.
 
 ### parser
 
