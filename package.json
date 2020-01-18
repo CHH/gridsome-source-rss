@@ -1,6 +1,6 @@
 {
   "name": "gridsome-source-rss",
-  "version": "1.0.0-alpha.1",
+  "version": "1.0.0-alpha.2",
   "main": "src/index.js",
   "repository": "https://github.com/CHH/gridsome-source-rss.git",
   "author": "Christoph Hochstrasser <christoph@hochstrasser.io>",
@@ -8,5 +8,9 @@
   "dependencies": {
     "rss-parser": "^3.7.3"
   },
-  "keywords": ["gridsome", "gridsome-plugin", "gridsome-source"]
+  "keywords": [
+    "gridsome",
+    "gridsome-plugin",
+    "gridsome-source"
+  ]
 }
