@@ -6,7 +6,8 @@
   "author": "Christoph Hochstrasser <christoph@hochstrasser.io>",
   "license": "MIT",
   "dependencies": {
-    "rss-parser": "^3.7.3"
+    "rss-parser": "^3.7.3",
+    "lodash.omit": "^4.5.0"
   },
   "keywords": [
     "gridsome",
