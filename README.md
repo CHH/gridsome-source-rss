@@ -19,7 +19,7 @@ module.exports = {
       use: "gridsome-source-rss",
       options: {
         feedUrl: "https://hnrss.org/frontpage",
-        typeName: 'HNFrontpageItem'
+        typeName: 'HNFrontpageItem',
         // Parser options, see: https://www.npmjs.com/package/rss-parser
         parser: {}
       }
