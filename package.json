@@ -6,7 +6,7 @@
   "author": "Christoph Hochstrasser <christoph@hochstrasser.io>",
   "license": "MIT",
   "dependencies": {
-    "lodash.omit": "^4.5.0",
+    "lodash.omit": "^4.18.0",
     "rss-parser": "^3.7.3"
   },
   "keywords": [
